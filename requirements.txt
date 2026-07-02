@@ -1,3 +1,9 @@
 opencv-python
 pyttsx3
 numpy
+ultralytics
+google-genai
+SpeechRecognition
+PyAudio
+python-dotenv
+pillow
